@@ -55,10 +55,10 @@ require([
 			// Option documentation is here:
 			// https://developers.arcgis.com/javascript/jsapi/map-amd.html#map1
 			basemap: 'streets-vector',
-			center: [-96.34,33.15],
+			center: [-96.94,33.15],
 			zoom: 10,
 			minZoom: 1,
-			maxZoom: 10,
+			maxZoom: 20,
 			// You don't need to change these
 			logo: false,
 			showAttribution: false
