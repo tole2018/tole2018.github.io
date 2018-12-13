@@ -54,11 +54,11 @@ require([
 			// Change the following options to set the default view of your index map.
 			// Option documentation is here:
 			// https://developers.arcgis.com/javascript/jsapi/map-amd.html#map1
-			basemap: 'gray',
-			center: [-95,38],
-			zoom: 3,
+			basemap: 'streets-vector',
+			center: [-96.34,33.15],
+			zoom: 10,
 			minZoom: 1,
-			maxZoom: 8,
+			maxZoom: 10,
 			// You don't need to change these
 			logo: false,
 			showAttribution: false
